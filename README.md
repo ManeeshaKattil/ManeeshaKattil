@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-**ManeeshaKattil/ManeeshaKattil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ManeeshaKattil/ManeeshaKattil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...as a second year BSc computer Science student
 - 🌱 I’m currently learning ...Python
