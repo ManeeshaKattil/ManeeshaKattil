@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there I am Maneesha👋
 
 
 <!-- **ManeeshaKattil/ManeeshaKattil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...as a second year BSc computer Science student
-- 🌱 I’m currently learning ...Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m pursuing my degree at KAHM Unity Women's college, Manjeri affiliated to University of Calicut.
+- 🌱 I’m currently learning Python on my third semester.
+- 📫 How to reach me: You can find me on https://www.linkedin.com/in/maneeshakattil/
+- 😄 Pronouns: She/Her
 
+I love learning new technologies. Also enjoying problem solving as well. 
